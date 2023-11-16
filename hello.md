@@ -1,7 +1,7 @@
 # Simple beautiful notes.
 
-Hi I am trying to markdown.
+Powerfully formatted using GitHub.
 
-## Effective note taking is not far away.
+## Effective note taking is easier thanks to plaintext.
 
-[Here's a link](https://arc.rip)
+[Here's a link](https://google.com)
